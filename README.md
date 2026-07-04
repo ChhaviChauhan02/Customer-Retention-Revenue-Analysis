@@ -40,7 +40,7 @@ Excel Dataset
 
 ⬇
 
-Python Data Cleaning & Validation
+Python Data Profiling & Exploratory Data Analysis (EDA)
 
 ⬇
 
